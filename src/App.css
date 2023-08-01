@@ -36,3 +36,75 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-btn{
+  border-color:rgb(192.52, 0, 161.72) !important ;
+}
+
+.search-input{
+  border-color:rgb(192.52, 0, 161.72) !important ;
+}
+
+.icon-color{
+  color:rgb(192.52, 0, 161.72);
+}
+
+.nav-btn:hover{
+  background-image: linear-gradient(
+    to bottom,
+    rgb(192.52, 0, 161.72),
+    rgb(151.13, 0, 192.52)
+  ) !important;
+}
+
+.home-page{
+  padding-top: 150px;
+}
+
+.nft-text{
+  color: rgb(192.52, 0, 161.72);
+}
+
+.home-page-title{
+  margin-left: -70px;
+}
+
+.home-page-info{
+  margin-left: -500px !important;
+  margin-right: -500px !important;
+  background: linear-gradient(
+    90deg,
+    rgb(143, 104, 136) 15%,
+    rgba(38, 78, 220, 1) 40.74%,
+    rgba(201, 5, 255, 1) 85.42%
+  );
+}
+
+.home-page-info-content-1{
+  padding-left: 600px !important;
+}
+
+.home-page-info-content-2{
+  padding-right:50px !important ;
+}
+
+.home-page-info-content-3{
+  padding-right: 600px !important;
+}
+
+.details-card-color{
+  background-color: #21243C !important;
+  border-color: #21243C !important;
+}
+
+.details-color{
+  color: #A3A6B7 !important;
+}
+
+.details-card-description-color{
+  color: #A3A6B7 !important;
+}
+
+input::placeholder{
+  color: #A3A6B7 !important;
+}
